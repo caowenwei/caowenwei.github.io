@@ -1,0 +1,46 @@
+permalink: /:categories/:title/
+
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input:  GFM
+  syntax_highlighter: rouge
+
+
+paginate: 10
+paginate_path: "page/:num"
+baseurl: ""
+
+
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      styles : [highlight.css,gitment.css,post.css]
+      scripts : [gitment.js, post.js]
+
+
+
+title: "W"
+email: 95881192@qq.com
+description: ""
+github:
+  username: caowenwei
+swiftype:
+  searchId: 
+gitment:
+    repo: caowenwei.github.io
+    client_id: b2f0f451a1fd1df2747d
+    client_secret: f41ff0d51ac82eb95cfcc22970e8a283af0d6848
+
+url: "https://caowenwei.github.io"
+imgrepo: "https://caowenwei.github.io/static/img"
+
+
+#url: "http://127.0.0.1:4000"
+#imgrepo: "http://127.0.0.1:4000/static/img"
+
