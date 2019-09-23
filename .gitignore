@@ -3,3 +3,8 @@ _site
 .idea
 .local
 .local/*
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
