@@ -3,6 +3,7 @@ layout: post
 title: Servlet乱码分析
 tags: servlet encode Java
 categories: web
+published: false
 ---
 
 我们知道，web浏览器会将form中的内容打包成HTTP请求体，然后发送到服务端，服务端对请求体解析后可以得到传递的数据。这当中包含两个过程：`encode`与`decode`。

@@ -3,6 +3,7 @@ layout: post
 title: 为什么要用补码表示负数
 tags: 补码 computer
 categories: common
+published: false
 ---
 
 抛开二进制不谈，我们先来看看10进制
