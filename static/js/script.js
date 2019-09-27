@@ -7,7 +7,7 @@
  */
 $(document).ready(function() {
     backToTop();
-    search();
+    //search();
 });
 
 /**
