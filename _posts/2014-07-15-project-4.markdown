@@ -1,6 +1,9 @@
 ---
 title: Treehouse
 subtitle: Website Design
+location: Remote
+duration: 12 months
+posted-date: 03/25/2024
 layout: default
 modal-id: 4
 date: 2014-07-15
