@@ -1,9 +1,9 @@
 ---
-title: Golden
+title: Data Analyst/Engineer
 subtitle: Website Design
-location: Remote
-duration: 12 months
-posted-date: 03/25/2024
+location: Atlanta, GA 
+duration: Full-time
+posted-date: 04/02/2024
 layout: default
 modal-id: 3
 date: 2014-07-16
@@ -11,8 +11,8 @@ img: golden.png
 thumbnail: golden-thumbnail.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
+client: TBA
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Key Responsibilities :<br/>• Bachelor of Science degree in Computer Science or equivalent<br/>• At least 8+ years of post-degree professional experience<br/>• Required experience in SQL and other querying languages to convert into modern data tools or jobs<br/>• Strongly preferred experience in data analysis to create, publish, and/or manage reports and data visualizations in Tableau, PowerBI, AWS Quicksight, or AWS DataZone (i.e., our target solutions)<br/>• Highly desirable experience implementing performance tuning in Tableau dashboards<br/>• Highly desirable experience working with TOAD data tool<br/>• Demonstrated experience building and preparing data for analytics<br/>• Proficiency working with database technologies and data development such as Python, PLSQL, etc.<br/>• Experience working with queries/applications, including performance tuning, utilizing indexes, and materialized views to improve query performance<br/>• Identify necessary business rules for extracting data along with functional or technical risks related to data sources (e.g. data latency, frequency, etc.)<br/>• Strong understanding of performing test cases for profiling data, validating analysis, testing assumptions, driving data quality assessment specifications, and define a path to deployment<br/>• Familiar with best practices for data ingestion and data design.
 
 ---

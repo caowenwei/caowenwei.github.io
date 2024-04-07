@@ -1,9 +1,9 @@
 ---
-title: Startup Framework
+title: Manager of Loan Underwriting
 subtitle: Website Design
-location: Remote
-duration: 12 months
-posted-date: 03/25/2024
+location: Atlanta, GA
+duration: Full-time
+posted-date: 04/06/2024
 layout: default
 modal-id: 5
 date: 2014-07-14
@@ -11,8 +11,8 @@ img: startup-framework.png
 thumbnail: startup-framework-thumbnail.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
+client: TBA
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Our Client is the largest family controlled bank in the US.<br/><br/>As a Manager of Loan Underwriting your roles and responsibilities will include:<br/>•	Evaluates the quality of retail credit applications, resolves customer, branch or dealer complaints or problems in order to turn declines into lending opportunities, processes retail loan documents and assists branch lenders in selling products and services in order to originate a profitable loan portfolio and protect the Bank from loss.<br/>•	Participates in the selection and hiring of underwriters and servicers, determines and distributes work assignments, assists in completing annual evaluations of the underwriting staff, makes final decisions on all loans outside the lending authority limits of junior staff as requested.<br/>•	Develops a portfolio of retail loans by analyzing applications and credit reports and obtaining approval for loans that are underwritten within established lending limits that meet or exceeding the Bank’s credit quality, profitability, growth and service objectives without compromising quality according to established guidelines and procedures.<br/>•	Measures profitability of portfolio by an acceptable delinquency ratio, net charge-off and growth goals.<br/>•	Acts as a primary credit decision entity for retail loans in the department and provides leadership and guidance to developing underwriters. Assists department manager in the training of new products, employees, and services.<br/>•	Assists management in establishing workflows and queuing strategies to maximize efficiencies and productivity levels.<br/>•	Demonstrates personal and interpersonal behavior, attitude, judgment, communication and initiative with customers and employees in order to ensure best in class loan fulfillment.<br/>•	Resolves customer, branch or dealer complaints or problems by investigating the complaint which includes obtaining facts, documenting information, and proposing solutions that comply with government regulations and are in accordance with established policies and procedures timely and courteously in order to ensure an equitable settlement of the complaint or problem.<br/>•	Actively looks for opportunities to cross sell other bank products, specifically other credit products, and looks for potential upsell opportunities to meet customer banking needs and contribute to the Bank’s profit objectives.<br/>•	Performs other related duties and projects as assigned.<br/><br/>Responsibilities and qualifications:<br/>Most importantly, you need to be a passionate Manager of Loan Underwriting who enjoys his work and is considered to be one of the best within your organization. The ideal Manager of Loan Underwriting would be someone with deep experience in many (if not all) of the following:<br/>•	Excellent management skills<br/>•	Excellent communication skills, both written and verbal<br/>•	Excellent organizational, analytical and interpersonal skills<br/>•	Excellent customer service skills<br/>•	Ability to use a personal computer and job-related software<br/>•	MS Word - Basic Level<br/>•	MS Excel - Intermediate Level<br/>•	MS PowerPoint - Basic Level<br/>•	Experience in lending related position.
 
 ---

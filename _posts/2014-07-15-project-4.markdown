@@ -1,9 +1,9 @@
 ---
-title: Treehouse
+title: Power BI Developer
 subtitle: Website Design
 location: Remote
 duration: 12 months
-posted-date: 03/25/2024
+posted-date: 04/03/2024
 layout: default
 modal-id: 4
 date: 2014-07-15
@@ -11,8 +11,8 @@ img: treehouse.png
 thumbnail: treehouse-thumbnail.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
+client: TBA
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Position Summary:<br/>As an Intermediate Power BI Developer you will play a crucial role in translating business needs into dynamic, insightful, and actionable visual analytics. You will be responsible for designing, developing, and maintaining Power BI dashboards and reports that aid in decision-making and strategic planning across various departments. Your expertise will enable the organization to leverage data-driven insights to optimize operations, improve productivity, and enhance overall performance.<br/><br/>Key Responsibilities :<br/>1. Develop, deploy, and maintain Power BI dashboards and reports, ensuring they meet business requirements and user needs.<br/>2. Work closely with stakeholders to understand their data visualization needs and translate them into compelling Power BI solutions.<br/>3. Extract, transform, and load (ETL) data from various sources into Power BI, ensuring data accuracy and integrity.<br/>4. Implement data modeling, visualization, and reporting techniques to create impactful and interactive dashboards.<br/>5. Provide Power BI training and support to end-users, enhancing their ability to make data-driven decisions.<br/>6. Continuously monitor and optimize the performance of Power BI solutions, ensuring they remain relevant and efficient.<br/>7. Collaborate with IT and BI teams to ensure alignment with Client's technological and business strategies.<br/>8. Stay updated with the latest trends and advancements in BI technologies and Power BI developments, applying best practices to ongoing and future projects.<br/><br/>Qualifications:<br/>1. Bachelor's degree in Computer Science, Information Technology, Business Analytics, or related field.<br/>2. OR 2-4 years of experience in Power BI development and data analytics.<br/>3. Proficient in data modeling, SQL, and DAX.<br/>4. Strong understanding of BI principles, practices, and methodologies.<br/>5. Experience with data integration and ETL processes.<br/>6. Excellent analytical, problem-solving, and decision-making abilities.<br/>7. Strong communication and interpersonal skills, with the ability to translate complex data into actionable insights for non-technical stakeholders.<br/>8. Ability to work independently and collaboratively in a team environment.<br/>9. Prior experience in the poultry or food production industry is a plus.
 
 ---

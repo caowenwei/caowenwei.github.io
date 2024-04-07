@@ -1,9 +1,9 @@
 ---
-title: Round Icons
+title: Cloud System Engineer
 subtitle: Graphic Design
-location: Remote
-duration: 12 months
-posted-date: 03/25/2024
+location: Tampa, FL
+duration: Full-time
+posted-date: 04/06/2024
 layout: default
 modal-id: 6
 date: 2014-07-15
@@ -11,8 +11,8 @@ img: roundicons.png
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
+client: TBA
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: As an Azure Systems Engineer, you would be responsible for designing, implementing, and maintaining cloud infrastructure and services using Microsoft Azure. Your role would involve working closely with other IT professionals and stakeholders to understand business requirements and translate them into scalable and reliable Azure solutions. Here are some key responsibilities and skills associated with this role.<br/>Responsibilities<br/>Azure Infrastructure Design: You should be proficient in designing Azure-based solutions, including virtual networks, storage, compute resources, security, and identity management.<br/>Implementation and Deployment: You will deploy Azure resources and services according to best practices, ensuring high availability, scalability, and security.<br/>Automation and Scripting: Automation is crucial for managing Azure environments efficiently. Proficiency in scripting languages like PowerShell or using Azure Automation to automate tasks is essential.<br/>Monitoring and Performance Optimization: Monitoring Azure resources' performance and optimizing them for cost, performance, and reliability is part of your responsibilities. Familiarity with Azure Monitor and other monitoring tools is valuable.<br/>Security and Compliance: Ensuring Azure environments meet security and compliance requirements, including data protection, identity management, and regulatory compliance (such as GDPR or HIPAA).<br/>Disaster Recovery and Business Continuity: Implementing backup and disaster recovery solutions to ensure data integrity and business continuity in case of failures or disasters.<br/>Collaboration and Communication: Effective communication skills are essential for collaborating with cross-functional teams, understanding business requirements, and providing technical guidance to stakeholders.<br/>Continuous Learning: Azure is constantly evolving with new services and updates. As a systems engineer, you need to stay updated with the latest Azure technologies and best practices through continuous learning and certification.<br/>Troubleshooting and Problem Resolution: Identifying and resolving technical issues in Azure environments, including performance bottlenecks, connectivity problems, and resource conflicts.<br/>Documentation and Knowledge Sharing: Documenting Azure infrastructure designs, configurations, and processes is crucial for maintaining system integrity and facilitating knowledge sharing among team members.<br/>Overall, as an Azure Systems Engineer, your role is to leverage Azure services and technologies to build robust, scalable, and secure cloud solutions that meet the organization's needs and objectives.<br/>Qualifications:<br/>Required<br/>•	At least 3 years of experience working with enterprise virtualization technologies in a live, production environment.<br/>•	Bachelor's degree or equivalent relevant work experience<br/>•	At least 3 years of experience working with enterprise database systems, performing installation setup, basic configuration and troubleshooting.<br/>•	At least 4 years of experience implementing and troubleshooting solutions in a public cloud environment.<br/>•	Working knowledge of IT standards, concepts, best practices, and procedures<br/>•	Intermediate level experience developing complex automation using one or more of the following (PowerShell, Python, Ruby, Bash)<br/>•	Intermediate level experience using Puppet, Chef, Ansible, AWS CloudFormation for Application Deployment and Configuration Management<br/>•	Experience with Git, RDBMS, NoSQL, Linux<br/>•	Must be willing to reside or relocate to the KC Metro area<br/>Preferred<br/>•	Experience with both Windows and Linux based operating systems.
 
 ---

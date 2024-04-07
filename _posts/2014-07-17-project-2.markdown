@@ -11,7 +11,7 @@ img: escape.png
 thumbnail: escape-thumbnail.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
+client: TBA
 category: Web Development
 description: Key Responsibilities :<br/>• Professional Snowflake experience and strong SQL scripting is a must to have. <br/>• Java, Spring/Spring Boot, REST APIs using Microservice Architecture <br/>• Integration of Snowflake with other data processing and reporting tools <br/>• Should have experience working with any of the cloud platforms and able to load data from cloud storage • Experience in Financial Services is a nice to have Nice to Haves <br/>• ETL - Experience with one of the ETL tools (client uses DataStage)<br/><br/>The contractor will help create new Snowflake Reporting views to be consumed by Client Reports or other consumers. Java microservices will also need to be modified to consume data from strategic sources instead of legacy sources. Legacy technology solutions and processes will need to be redesigned to leverage strategic platforms and technologies.
 
